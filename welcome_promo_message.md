@@ -1,1 +1,1 @@
-Love Andi? Upvote us on [Launch YC](https://www.ycombinator.com/launches/JC8-andi-making-search-fun-factual-and-interesting). No account needed 🤗 🙏
+Love Andi? Upvote now on [Launch YC](https://www.ycombinator.com/launches/JC8-andi-making-search-fun-factual-and-interesting). No login needed 🤗 🙏
