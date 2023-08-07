@@ -1,4 +1,5 @@
-<img src="https://andisearch.com/assets/andi-robot-v2-640.png" style="width: 64px; height: 64px; float: left; margin-right: 8px; border-radius: 9999px; vertical-align: top;" alt="Andi" />Have I helped you? Upvote the new me on [Launch YC](https://www.ycombinator.com/launches/JC8-andi-making-search-fun-factual-and-interesting)! 
+<img src="https://andisearch.com/assets/andi-robot-v2-640.png" style="width: 64px; height: 64px; float: left; margin-right: 8px; border-radius: 9999px; vertical-align: top;" alt="Andi" />Have I helped you? Upvote the new me on [Launch YC](https://www.ycombinator.com/launches/JC8-andi-making-search-fun-factual-and-interesting) 
 
-Thanks to everyone who already voted! 🤗 🙏    
+Thanks to everyone who already voted! 🤗 🙏
+
 No login needed 
