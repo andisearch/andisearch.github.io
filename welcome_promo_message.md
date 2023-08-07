@@ -1,1 +1,1 @@
-Love Andi? Upvote now on [Launch YC](https://www.ycombinator.com/launches/JC8-andi-making-search-fun-factual-and-interesting). No login needed 🤗 🙏
+<img src="/assets/andiavatar-128.png" style="width: 96px; height: 96px; float: left; margin-right: 16px;" alt="Andi" />Have I helped you? Upvote me on [Launch YC](https://www.ycombinator.com/launches/JC8-andi-making-search-fun-factual-and-interesting). Thanks to everyone who already voted for the new version too! No login needed 🤗 🙏
