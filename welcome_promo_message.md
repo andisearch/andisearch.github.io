@@ -1,1 +1,2 @@
-Upvote Andi on [Launch YC](https://www.ycombinator.com/launches/JC8-andi-making-search-fun-factual-and-interesting) 🤗
+Andi is currently overwhelmed 🤯    
+Please be patient while we add GPUs 🤗
