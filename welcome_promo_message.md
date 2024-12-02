@@ -1,7 +1,5 @@
-Major upgrade available! 🙌 🚀
+Andi is under high load right now 😳
 
-Do a browser 'hard reload' to get it now:
+Some AI features are unavailable sorry.
 
-Mac: cmd + shift + r
-
-Other: ctrl + shift + r
+Please check back soon if you run into problems.
