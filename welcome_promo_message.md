@@ -1,5 +1,5 @@
 Andi is under high load right now 😳
 
-Some AI features are unavailable sorry.
+Some AI tools may be unavailable sorry.
 
 Please check back soon if you run into problems.
