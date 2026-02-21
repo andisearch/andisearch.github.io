@@ -1,1 +1,1 @@
-High load causing search errors, sorry 😢
+High load is causing search errors currently sorry 😢
