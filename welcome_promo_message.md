@@ -1,1 +1,1 @@
-Warning: Some question answering triggers errors sorry 😢
+Question answering degraded: Some questions trigger errors sorry 😢
