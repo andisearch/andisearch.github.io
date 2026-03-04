@@ -1,1 +1,1 @@
-Question answering degraded: Some questions trigger errors sorry 😢
+Question answering is under high load with elevanted errors currently 🙏
