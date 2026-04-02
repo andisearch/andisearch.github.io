@@ -1,1 +1,1 @@
-Question answering is under high load with elevated errors currently 🙏
+New question answering and text generation system is live! Try it out 😇
