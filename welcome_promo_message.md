@@ -1,1 +1,1 @@
-New question answering and text generation system is live! Try it out 😇
+We're working on problems with the new answers and text generations atm 😢
