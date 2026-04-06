@@ -1,1 +1,1 @@
-We're working on problems with the new answers and text generations atm 😢
+Try new question answering and text gen. More improvements coming! 🤗
